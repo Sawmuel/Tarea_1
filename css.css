@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100px;
+    height: 70px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areacen{
+    width: 900px;
+    height: 70px;
+    background-color: rgb(61, 87, 235);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;    
+}
+.central{
+    display: flex;
+    width: 1000px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+.areamen{
+    width: 690px;
+    height: 70px;
+    background-color: rgb(70, 66, 66);
+    margin: 5px;
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areafec{
+    width: 305px;
+    height: 70px;
+    background-color: rgb(170, 168, 168);
+    margin: 5px;
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.area{
+    width: 700px;
+    height: 425px;
+    background-color: rgb(236, 147, 87);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areabus{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(138, 216, 92);
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areanot{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(197, 100, 176);
+    margin: 5px;
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.areaeve{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(104, 25, 107);
+    margin: 5px; 
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+footer{
+    width: 990px;
+    height: 70px;
+    background-color: rgb(62, 146, 172);
+    margin: 0 auto;
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+h3{
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+h2{
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    color: black;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
